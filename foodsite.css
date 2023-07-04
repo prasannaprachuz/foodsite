@@ -1,0 +1,108 @@
+a {
+    color: rgb(241, 10, 10);
+    text-decoration: none;
+    float: right;
+    margin-right: 20px;
+    margin-top: 1px;
+}
+
+body {
+    background-color: gray;
+
+}
+
+h1 {
+    font-size: 51px;
+    margin-top: 80px;
+    color: black;
+}
+
+div {
+    height: 406px;
+    width: 100%;
+    background-color: rgb(89, 89, 90);
+    border: black 2px solid;
+    margin-top: -216px;
+
+}
+
+img {
+    width: 60%;
+    height: 406px;
+    margin-left: 700px;
+}
+
+#a1 {
+    height: 233px;
+    width: 300px;
+    background-color: blue;
+    margin-left: 48px;
+    margin: 2px solid yellow;
+    margin-top: 31px;
+    background-image: url(./images/WhatsApp\ Image\ 2023-06-29\ at\ 7.08.36\ PM\ \(1\).jpeg);
+    background-size: cover;
+}
+
+#b1 {
+    text-align: center;
+}
+
+#a2 {
+    height: 233px;
+    width: 300px;
+    background-color: rgb(11, 11, 46);
+    margin-left: 377px;
+    margin: 2px solid yellow;
+    margin-top: -236px;
+    background-image: url(./images/WhatsApp\ Image\ 2023-06-29\ at\ 7.08.38\ PM\ \(1\).jpeg);
+    background-size: cover;
+}
+
+#a3 {
+    height: 233px;
+    width: 300px;
+    background-color: rgb(19, 19, 39);
+    margin-left: 702px;
+    margin: 2px solid yellow;
+    margin-top: -237px;
+    background-image: url(./images/WhatsApp\ Image\ 2023-06-29\ at\ 7.08.36\ PM.jpeg);
+    background-size: cover;
+}
+
+#a4 {
+    height: 233px;
+    width: 300px;
+    background-color: rgb(75, 4, 122);
+    margin-left: 1025px;
+    margin: 2px solid yellow;
+    margin-top: -238px;
+    background-image: url(./images/WhatsApp\ Image\ 2023-06-29\ at\ 7.08.37\ PM.jpeg );
+    background-size: cover;
+}
+#c1{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(19, 18, 18);
+    margin-right: 100%;
+    margin-top: 40px;
+    border: 3px solid black;
+    
+} 
+h2{
+    text-align: left;
+    color: white;
+    margin-left: 146px;
+    margin-top: -193px;
+    
+}
+p{
+    color: white;
+    margin-left: 27px;
+    margin-top: 24px;
+   
+}
+#h1{
+    height: 200px;
+    width: 312px;
+    margin-left: 1024px;
+}
